@@ -20,9 +20,13 @@ I'm a passionate Cloud Security and DevOps Engineer with expertise in architecti
 
 
 ☁️ I'm a Cloud Security and DevOps Engineer sharing my journey and expertise in securing cloud architecture and automation.
+
 🔄 Love building secure CI/CD pipelines to make software delivery smooth and efficient.
+
 🌱 Documenting my experiences and sharing resources on my blog, LinkedIn, GitHub.
+
 🎬 In my free time, I enjoy reading, watching movies and learning new things on YouTube.
+
 
 
 💻 Tech Stack:
@@ -55,6 +59,7 @@ Kubernetes
 
 
 **💼 Job interests:**
+
 I’m looking for opportunities in Cloud Security, Cloud Computing and DevOps.
 
 Cloud Engineer, Cloud DevOps Engineer, Cloud Security Engineer, Security Engineer, SRE Engineer, Platform Engineer.
