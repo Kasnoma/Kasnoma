@@ -46,20 +46,6 @@ CI/CD (Jenkins, Github Actions, Bitbucket pipeline)
 Monitoring (Prometheus ,Grafana, Datadog, CLoudwatch)
 Cloud Technologies (AWS, Azure, GCP)
 
-**Basic understanding of:**
-
-HTML
-CSS
-Javascript
-C
-Python
-Bash
-HCL
-YAML
-Python
-=
-
-
 **💼 Job interests:**
 
 I’m looking for opportunities in Cloud Security, Cloud Computing and DevOps.
@@ -67,10 +53,15 @@ I’m looking for opportunities in Cloud Security, Cloud Computing and DevOps.
 Cloud Engineer, Cloud DevOps Engineer, Cloud Security Engineer, Security Engineer, SRE Engineer, Platform Engineer.
 
 **📜 Certifications:**
+
 CompTIA Security +ce
+
 AWS Cloud Practitioner
+
 AWS Certified Solutions Architect - Associate
+
 AWS Certified Security - Specialty
+
 PECB ISO 27001 Lead Implementer
 
 Feel free to reach out to me if you're new cloud security or aspiring to be a cloud security engineer!
