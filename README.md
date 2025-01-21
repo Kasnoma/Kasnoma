@@ -49,24 +49,15 @@ Cloud Technologies (AWS, Azure, GCP)
 **Basic understanding of:**
 
 HTML
-
 CSS
-
 Javascript
-
 C
-
 Python
-
 Bash
-
 HCL
-
 YAML
-
 Python
-
-Kubernetes
+=
 
 
 **💼 Job interests:**
